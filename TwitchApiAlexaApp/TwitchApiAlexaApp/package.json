@@ -1,0 +1,9 @@
+{
+  "name": "twitch-api-alexa-app",
+  "version": "0.0.0",
+  "description": "TwitchApiAlexaApp",
+  "main": "app.js",
+  "author": {
+    "name": "schla"
+  }
+}
