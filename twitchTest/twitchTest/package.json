@@ -1,0 +1,9 @@
+{
+  "name": "twitch-test",
+  "version": "0.0.0",
+  "description": "twitchTest",
+  "main": "app.js",
+  "author": {
+    "name": "schla"
+  }
+}
